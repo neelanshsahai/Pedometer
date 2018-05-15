@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="steps">No.of Steps</string>
+    <string name="distance">Distance Covered</string>
+    <string name="speed">Avg. Speed</string>
+    <string name="time">Time Taken</string>
+</resources>
